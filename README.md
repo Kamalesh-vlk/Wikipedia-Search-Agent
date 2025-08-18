@@ -37,7 +37,9 @@ MS Dhoni is a former Indian professional cricketer, widely regarded as one of th
 He captained India in limited-overs formats from 2007 to 2017 and in Test cricket from 2008 to 2014. 
 He led India to victory in the 2007 ICC World Twenty20, the 2011 Cricket World Cup, and the 2013 ICC Champions Trophy.
 ```
+<img width="1349" height="614" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/c0dab710-1cc3-47c8-b1d5-2db2a60b033d" />
 
+---
 ## ✅ Note:
 To run the Wikipedia Search Agent with a Streamlit UI:
 ```
